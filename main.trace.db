@@ -1,3 +1,0 @@
-2015-11-02 11:17:27 jdbc[3]: exception
-org.h2.jdbc.JdbcSQLException: Table "PLAYERS" already exists; SQL statement:
-CREATE TABLE players (name VARCHAR, health DOUBLE, score INT, is_alive BOOLEAN) [42101-190]
